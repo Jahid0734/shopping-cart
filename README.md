@@ -1,2 +1,2 @@
 # shopping-cart
-#I am web developer. I dream is became a full stack developer
+#I am web developer. My dream is became a full stack developer
